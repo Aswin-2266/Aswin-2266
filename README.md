@@ -3,7 +3,7 @@
 
 ---
 
-🎓 I’m currently pursuing my Bachelor's in **Electronics and Communication Engineering** from Rathinam Technical Campus (Anna University).  
+🎓 I’m currently pursuing my Bachelor's in **Electronics and Communication Engineering** from Rathinam Technical Campus.  
 💡 I’m passionate about Information Technology, cloud-integrated systems, and solving real-world problems using full-stack development and software engineering.
 👨‍💻 I build full-stack web apps, smart sensing systems, and sustainable tech solutions.  
 🧑‍🔬 I’ve completed internships with **Southern Railways** and led multiple academic tech projects.  
@@ -47,7 +47,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Aswin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin41/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aswin41/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aswin-2266)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%8C%90-orange?style=for-the-badge)](https://portfolio-aswin04.vercel.app/)
 
