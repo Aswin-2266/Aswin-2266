@@ -7,7 +7,7 @@
 💡 I’m passionate about Information Technology, cloud-integrated systems, and solving real-world problems using full-stack development and software engineering.
 👨‍💻 I build full-stack web apps, smart sensing systems, and sustainable tech solutions.  
 🧑‍🔬 I’ve completed internships with **Southern Railways** and led multiple academic tech projects.  
-🚀 Currently open to internships and entry-level roles in **Full-Stack, IoT**, or **Embedded Systems** domains.
+🚀 Currently open to internships and entry-level roles in **Full-Stack, IoT, Cloud Platforms**, or **Embedded Systems** domains.
 
 ---
 
@@ -15,12 +15,12 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
